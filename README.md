@@ -1,6 +1,6 @@
 ## Hi, I'm Amer
 
-I'm an AI engineer in Linz, Austria, and I'm finishing my Master's in Artificial Intelligence at JKU (minor in NLP). Most of my work is about LLMs and RAG: taking messy documents and data and turning them into something structured and useful. Right now I work at IT-fact GmbH, where I build AI features into Odoo, and I'm also CTO at [AIKA](https://www.aika.at), an ESG platform I helped start.
+I'm an AI engineer in Linz, Austria, and I'm finishing my Master's in Artificial Intelligence at JKU (minor in NLP). Most of my work is about LLMs and RAG: taking messy documents and data and turning them into something structured and useful. Right now I work at it-fact GmbH, where I build AI features into Odoo, and I'm also CTO at [AIKA](https://www.aika.at), an ESG platform I helped start.
 
 I'm open to AI / LLM engineering roles in Austria or remote.
 
@@ -30,7 +30,7 @@ A RAG chatbot for talking about books. It scrapes reviews, stores them in Qdrant
 
 ### Experience
 
-- **IT-fact GmbH**, Steyr – Software Developer & AI Engineer (Jun 2026 – now)
+- **it-fact GmbH**, Steyr – Software Developer & AI Engineer (Jun 2026 – now)
   Odoo development, Bill Check, and an AI dashboard that generates KPIs and charts from business data.
 - **Timeless Soft GmbH**, Vienna – AI Software Developer (Jan 2025 – Mar 2026)
   Built the tariff optimisation for *e-novations* (finding the cheapest EV charging in Austria), LLM tools for customer identification, and price prediction models with Random Forest and XGBoost.
